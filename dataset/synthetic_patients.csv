@@ -1,0 +1,101 @@
+patient_id,gender,age,location
+P06,F,37,Englewood
+P85,M,77,Newark
+P23,F,49,Newark
+P4,M,36,Jersey City
+P71,M,56,Jersey City
+P56,F,21,Englewood
+P76,F,61,Clifton
+P30,M,79,Newark
+P50,M,79,Englewood
+P81,M,79,Clifton
+P53,M,85,Englewood
+P46,M,33,Englewood
+P39,M,67,Englewood
+P62,M,77,Clifton
+P69,F,86,Clifton
+P26,F,87,Englewood
+P87,M,76,Newark
+P27,F,48,Englewood
+P54,F,88,Englewood
+P32,F,67,Newark
+P11,F,54,Clifton
+P51,M,81,Newark
+P10,F,41,Jersey City
+P45,M,23,Jersey City
+P00,F,84,Englewood
+P21,M,38,Jersey City
+P41,F,79,Jersey City
+P14,F,62,Englewood
+P63,F,88,Newark
+P35,F,86,Clifton
+P0,M,75,Englewood
+P73,F,88,Clifton
+P88,M,28,Englewood
+P01,F,45,Englewood
+P28,M,54,Newark
+P29,M,60,Clifton
+P61,F,58,Clifton
+P31,F,53,Englewood
+P75,M,43,Newark
+P38,M,49,Englewood
+P9,M,77,Newark
+P70,F,68,Clifton
+P33,M,32,Englewood
+P8,M,76,Englewood
+P49,M,63,Clifton
+P89,M,74,Englewood
+P67,F,79,Jersey City
+P80,M,79,Clifton
+P07,M,59,Englewood
+P78,F,44,Newark
+P57,M,27,Newark
+P2,F,80,Clifton
+P6,M,28,Englewood
+P42,F,75,Englewood
+P52,M,39,Newark
+P55,F,64,Jersey City
+P19,M,81,Englewood
+P72,F,73,Jersey City
+P13,M,42,Jersey City
+P37,F,52,Englewood
+P84,M,44,Englewood
+P17,M,40,Jersey City
+P20,M,36,Englewood
+P43,M,87,Jersey City
+P83,M,25,Englewood
+P3,M,66,Jersey City
+P44,M,59,Clifton
+P82,M,69,Jersey City
+P03,F,38,Englewood
+P16,F,83,Clifton
+P47,F,75,Englewood
+P34,F,60,Newark
+P58,M,26,Jersey City
+P59,F,38,Englewood
+P02,M,82,Jersey City
+P04,M,25,Clifton
+P5,F,55,Englewood
+P48,M,62,Newark
+P65,F,45,Englewood
+P08,M,20,Englewood
+P15,F,38,Englewood
+P79,M,32,Clifton
+P12,M,63,Jersey City
+P64,F,24,Clifton
+P09,F,86,Clifton
+P24,F,40,Clifton
+P86,M,71,Clifton
+P60,M,61,Englewood
+P36,M,70,Clifton
+P66,F,57,Englewood
+P18,M,55,Jersey City
+P22,M,35,Englewood
+P74,F,50,Clifton
+P1,F,71,Jersey City
+P25,M,65,Englewood
+P7,M,64,Clifton
+P77,F,88,Englewood
+P05,M,55,Clifton
+P68,M,55,Newark
+P40,F,80,Clifton

@@ -1,0 +1,501 @@
+claim_id,patient_id,provider_id,procedure_code,diagnosis_code,claim_amount,claim_date,gender,age,location_x,specialty,location_y,years_of_experience,description,typical_cost,is_outlier,is_repeated_147,missing_diag,is_suspicious
+C2,P06,D04,PC31,D002,147.95,2024-08-10,F,37,Englewood,General Practice,Englewood,4,Cross-group bottom-line data-warehouse,3102.2,False,True,False,True
+C4,P06,D07,PC31,D002,147.95,2024-10-07,F,37,Englewood,Pediatrics,Jersey City,36,Cross-group bottom-line data-warehouse,3102.2,False,True,False,True
+C0,P06,D3,PC20,D002,147.95,2024-06-15,F,37,Englewood,General Practice,Jersey City,26,Focused disintermediate definition,3546.18,False,True,False,True
+C1,P06,D2,PC20,D002,147.95,2024-07-23,F,37,Englewood,Oncology,Englewood,20,Focused disintermediate definition,3546.18,False,True,False,True
+C5,P06,D04,PC20,D002,147.95,2024-10-07,F,37,Englewood,General Practice,Englewood,4,Focused disintermediate definition,3546.18,False,True,False,True
+C3,P06,D09,PC31,D002,147.95,2024-09-21,F,37,Englewood,Pediatrics,Englewood,10,Cross-group bottom-line data-warehouse,3102.2,False,True,False,True
+C6,P06,D3,PC20,D002,147.95,2024-10-06,F,37,Englewood,General Practice,Jersey City,26,Focused disintermediate definition,3546.18,False,True,False,True
+C00,P85,D08,PC34,D004,147.95,2024-07-02,M,77,Newark,Pediatrics,Jersey City,35,Function-based maximized leverage,7548.75,False,True,False,True
+C7,P85,D08,PC20,D004,147.95,2024-04-08,M,77,Newark,Pediatrics,Jersey City,35,Focused disintermediate definition,3546.18,False,True,False,True
+C9,P85,D05,PC20,D004,147.95,2024-04-07,M,77,Newark,Oncology,Jersey City,38,Focused disintermediate definition,3546.18,False,True,False,True
+C01,P85,D06,PC20,D004,147.95,2024-03-16,M,77,Newark,Cardiology,Englewood,7,Focused disintermediate definition,3546.18,False,True,False,True
+C8,P85,D3,PC02,D004,147.95,2024-06-19,M,77,Newark,General Practice,Jersey City,26,Front-line executive initiative,5748.69,False,True,False,True
+C05,P23,D03,PC05,D003,147.95,2024-01-18,F,49,Newark,Oncology,Jersey City,30,Cross-platform executive help-desk,4261.06,False,True,False,True
+C07,P23,D7,PC31,D002,147.95,2024-08-30,F,49,Newark,Cardiology,Englewood,6,Cross-group bottom-line data-warehouse,3102.2,False,True,False,True
+C06,P23,D1,PC31,D003,147.95,2024-09-10,F,49,Newark,General Practice,Newark,3,Cross-group bottom-line data-warehouse,3102.2,False,True,False,True
+C04,P23,D08,PC20,D002,147.95,2024-09-19,F,49,Newark,Pediatrics,Jersey City,35,Focused disintermediate definition,3546.18,False,True,False,True
+C03,P23,D09,PC33,D003,147.95,2024-01-18,F,49,Newark,Pediatrics,Englewood,10,Extended transitional task-force,7965.02,False,True,False,True
+C08,P23,D03,PC23,D002,147.95,2024-03-25,F,49,Newark,Oncology,Jersey City,30,Customizable non-volatile portal,5433.09,False,True,False,True
+C02,P23,D8,PC15,D002,147.95,2024-01-30,F,49,Newark,Pediatrics,Jersey City,5,Synergistic client-driven focus group,9859.1,False,True,False,True
+C09,P23,D08,PC05,D003,147.95,2024-04-08,F,49,Newark,Pediatrics,Jersey City,35,Cross-platform executive help-desk,4261.06,False,True,False,True
+C13,P4,D0,PC02,D005,147.95,2024-10-22,M,36,Jersey City,General Practice,Englewood,15,Front-line executive initiative,5748.69,False,True,False,True
+C10,P4,D1,PC02,D005,147.95,2024-11-01,M,36,Jersey City,General Practice,Newark,3,Front-line executive initiative,5748.69,False,True,False,True
+C14,P4,D2,PC05,D005,147.95,2024-08-07,M,36,Jersey City,Oncology,Englewood,20,Cross-platform executive help-desk,4261.06,False,True,False,True
+C15,P4,D1,PC02,D005,147.95,2024-09-09,M,36,Jersey City,General Practice,Newark,3,Front-line executive initiative,5748.69,False,True,False,True
+C16,P4,D04,PC02,D005,147.95,2024-11-05,M,36,Jersey City,General Practice,Englewood,4,Front-line executive initiative,5748.69,False,True,False,True
+C12,P4,D08,PC02,D005,147.95,2024-10-17,M,36,Jersey City,Pediatrics,Jersey City,35,Front-line executive initiative,5748.69,False,True,False,True
+C11,P4,D1,PC02,D005,147.95,2024-11-03,M,36,Jersey City,General Practice,Newark,3,Front-line executive initiative,5748.69,False,True,False,True
+C17,P71,D7,PC31,D003,147.95,2024-01-01,M,56,Jersey City,Cardiology,Englewood,6,Cross-group bottom-line data-warehouse,3102.2,False,True,False,True
+C20,P71,D8,PC20,D003,147.95,2024-08-08,M,56,Jersey City,Pediatrics,Jersey City,5,Focused disintermediate definition,3546.18,False,True,False,True
+C19,P71,D5,PC20,D003,147.95,2024-03-14,M,56,Jersey City,General Practice,Englewood,13,Focused disintermediate definition,3546.18,False,True,False,True
+C21,P71,D04,PC20,D003,147.95,2024-07-04,M,56,Jersey City,General Practice,Englewood,4,Focused disintermediate definition,3546.18,False,True,False,True
+C18,P71,D7,PC31,D001,147.95,2024-02-28,M,56,Jersey City,Cardiology,Englewood,6,Cross-group bottom-line data-warehouse,3102.2,False,True,False,True
+C24,P56,D1,PC02,D005,147.95,2024-12-30,F,21,Englewood,General Practice,Newark,3,Front-line executive initiative,5748.69,False,True,False,True
+C23,P56,D1,PC02,D005,147.95,2024-12-30,F,21,Englewood,General Practice,Newark,3,Front-line executive initiative,5748.69,False,True,False,True
+C22,P56,D1,PC05,D005,147.95,2024-10-13,F,21,Englewood,General Practice,Newark,3,Cross-platform executive help-desk,4261.06,False,True,False,True
+C26,P76,D1,PC14,D005,147.95,2024-12-30,F,61,Clifton,General Practice,Newark,3,Reactive methodical extranet,5137.21,False,True,False,True
+C25,P76,D2,PC34,D005,147.95,2024-11-30,F,61,Clifton,Oncology,Englewood,20,Function-based maximized leverage,7548.75,False,True,False,True
+C29,P30,D9,PC34,D004,147.95,2024-08-13,M,79,Newark,Cardiology,Clifton,24,Function-based maximized leverage,7548.75,False,True,False,True
+C27,P30,D1,PC05,D005,147.95,2024-10-28,M,79,Newark,General Practice,Newark,3,Cross-platform executive help-desk,4261.06,False,True,False,True
+C28,P30,D2,PC05,D005,147.95,2024-08-18,M,79,Newark,Oncology,Englewood,20,Cross-platform executive help-desk,4261.06,False,True,False,True
+C30,P30,D08,PC05,D005,147.95,2024-09-19,M,79,Newark,Pediatrics,Jersey City,35,Cross-platform executive help-desk,4261.06,False,True,False,True
+C32,P30,D03,PC34,D004,147.95,2024-08-21,M,79,Newark,Oncology,Jersey City,30,Function-based maximized leverage,7548.75,False,True,False,True
+C31,P30,D1,PC05,D005,147.95,2024-10-18,M,79,Newark,General Practice,Newark,3,Cross-platform executive help-desk,4261.06,False,True,False,True
+C40,P50,D7,PC05,D005,147.95,2024-10-03,M,79,Englewood,Cardiology,Englewood,6,Cross-platform executive help-desk,4261.06,False,True,False,True
+C38,P50,D0,PC14,D005,147.95,2024-12-30,M,79,Englewood,General Practice,Englewood,15,Reactive methodical extranet,5137.21,False,True,False,True
+C36,P50,D1,PC05,D005,147.95,2024-10-19,M,79,Englewood,General Practice,Newark,3,Cross-platform executive help-desk,4261.06,False,True,False,True
+C39,P50,D2,PC14,D005,147.95,2024-12-18,M,79,Englewood,Oncology,Englewood,20,Reactive methodical extranet,5137.21,False,True,False,True
+C34,P50,D1,PC01,D005,147.95,2024-12-30,M,79,Englewood,General Practice,Newark,3,Multi-lateral needs-based circuit,9284.66,False,True,False,True
+C37,P50,D1,PC14,D005,147.95,2024-12-30,M,79,Englewood,General Practice,Newark,3,Reactive methodical extranet,5137.21,False,True,False,True
+C35,P50,D1,PC15,D005,147.95,2024-12-30,M,79,Englewood,General Practice,Newark,3,Synergistic client-driven focus group,9859.1,False,True,False,True
+C33,P50,D8,PC05,D005,147.95,2024-05-28,M,79,Englewood,Pediatrics,Jersey City,5,Cross-platform executive help-desk,4261.06,False,True,False,True
+C46,P81,D7,PC34,D004,147.95,2024-10-05,M,79,Clifton,Cardiology,Englewood,6,Function-based maximized leverage,7548.75,False,True,False,True
+C41,P81,D09,PC05,D004,147.95,2024-05-05,M,79,Clifton,Pediatrics,Englewood,10,Cross-platform executive help-desk,4261.06,False,True,False,True
+C43,P81,D2,PC05,D004,147.95,2024-06-09,M,79,Clifton,Oncology,Englewood,20,Cross-platform executive help-desk,4261.06,False,True,False,True
+C48,P81,D5,PC05,D004,147.95,2024-04-14,M,79,Clifton,General Practice,Englewood,13,Cross-platform executive help-desk,4261.06,False,True,False,True
+C47,P81,D08,PC20,D004,147.95,2024-09-02,M,79,Clifton,Pediatrics,Jersey City,35,Focused disintermediate definition,3546.18,False,True,False,True
+C45,P81,D03,PC20,D004,147.95,2024-04-14,M,79,Clifton,Oncology,Jersey City,30,Focused disintermediate definition,3546.18,False,True,False,True
+C42,P81,D03,PC34,D004,147.95,2024-06-26,M,79,Clifton,Oncology,Jersey City,30,Function-based maximized leverage,7548.75,False,True,False,True
+C44,P81,D00,PC15,D005,147.95,2024-08-19,M,79,Clifton,Cardiology,Englewood,31,Synergistic client-driven focus group,9859.1,False,True,False,True
+C51,P53,D2,PC20,D001,147.95,2024-09-12,M,85,Englewood,Oncology,Englewood,20,Focused disintermediate definition,3546.18,False,True,False,True
+C49,P53,D1,PC31,D003,147.95,2024-09-27,M,85,Englewood,General Practice,Newark,3,Cross-group bottom-line data-warehouse,3102.2,False,True,False,True
+C50,P53,D7,PC31,D003,147.95,2024-09-10,M,85,Englewood,Cardiology,Englewood,6,Cross-group bottom-line data-warehouse,3102.2,False,True,False,True
+C53,P46,D8,PC15,D005,147.95,2024-02-25,M,33,Englewood,Pediatrics,Jersey City,5,Synergistic client-driven focus group,9859.1,False,True,False,True
+C55,P46,D3,PC15,D005,147.95,2024-06-18,M,33,Englewood,General Practice,Jersey City,26,Synergistic client-driven focus group,9859.1,False,True,False,True
+C54,P46,D7,PC15,D005,147.95,2024-05-02,M,33,Englewood,Cardiology,Englewood,6,Synergistic client-driven focus group,9859.1,False,True,False,True
+C52,P46,D08,PC15,D005,147.95,2024-05-08,M,33,Englewood,Pediatrics,Jersey City,35,Synergistic client-driven focus group,9859.1,False,True,False,True
+C57,P46,D8,PC15,D005,147.95,2024-03-07,M,33,Englewood,Pediatrics,Jersey City,5,Synergistic client-driven focus group,9859.1,False,True,False,True
+C58,P46,D2,PC34,D005,147.95,2024-08-03,M,33,Englewood,Oncology,Englewood,20,Function-based maximized leverage,7548.75,False,True,False,True
+C56,P46,D08,PC15,D005,147.95,2024-05-11,M,33,Englewood,Pediatrics,Jersey City,35,Synergistic client-driven focus group,9859.1,False,True,False,True
+C60,P39,D6,PC15,D005,147.95,2024-02-06,M,67,Englewood,Pediatrics,Clifton,34,Synergistic client-driven focus group,9859.1,False,True,False,True
+C59,P39,D2,PC15,D005,147.95,2024-09-14,M,67,Englewood,Oncology,Englewood,20,Synergistic client-driven focus group,9859.1,False,True,False,True
+C61,P39,D1,PC15,D005,147.95,2024-09-26,M,67,Englewood,General Practice,Newark,3,Synergistic client-driven focus group,9859.1,False,True,False,True
+C62,P39,D04,PC26,D005,147.95,2024-11-01,M,67,Englewood,General Practice,Englewood,4,Customizable non-volatile portal,9525.52,False,True,False,True
+C63,P62,D7,PC34,D004,147.95,2024-10-04,M,77,Clifton,Cardiology,Englewood,6,Function-based maximized leverage,7548.75,False,True,False,True
+C64,P62,D08,PC34,D004,147.95,2024-04-29,M,77,Clifton,Pediatrics,Jersey City,35,Function-based maximized leverage,7548.75,False,True,False,True
+C65,P62,D00,PC33,D004,147.95,2024-04-16,M,77,Clifton,Cardiology,Englewood,31,Extended transitional task-force,7965.02,False,True,False,True
+C72,P69,D7,PC30,D002,147.95,2024-01-01,F,86,Clifton,Cardiology,Englewood,6,Vision-oriented upward-trending encoding,4916.73,False,True,False,True
+C73,P69,D04,PC31,D002,147.95,2024-09-06,F,86,Clifton,General Practice,Englewood,4,Cross-group bottom-line data-warehouse,3102.2,False,True,False,True
+C70,P69,D6,PC31,D002,147.95,2024-01-01,F,86,Clifton,Pediatrics,Clifton,34,Cross-group bottom-line data-warehouse,3102.2,False,True,False,True
+C69,P69,D3,PC31,D002,147.95,2024-08-25,F,86,Clifton,General Practice,Jersey City,26,Cross-group bottom-line data-warehouse,3102.2,False,True,False,True
+C67,P69,D7,PC31,D002,147.95,2024-01-01,F,86,Clifton,Cardiology,Englewood,6,Cross-group bottom-line data-warehouse,3102.2,False,True,False,True
+C66,P69,D08,PC31,D002,147.95,2024-09-09,F,86,Clifton,Pediatrics,Jersey City,35,Cross-group bottom-line data-warehouse,3102.2,False,True,False,True
+C71,P69,D8,PC31,D002,147.95,2024-05-05,F,86,Clifton,Pediatrics,Jersey City,5,Cross-group bottom-line data-warehouse,3102.2,False,True,False,True
+C68,P69,D7,PC30,D002,147.95,2024-01-01,F,86,Clifton,Cardiology,Englewood,6,Vision-oriented upward-trending encoding,4916.73,False,True,False,True
+C76,P26,D7,PC31,D002,147.95,2024-01-01,F,87,Englewood,Cardiology,Englewood,6,Cross-group bottom-line data-warehouse,3102.2,False,True,False,True
+C77,P26,D3,PC39,D002,147.95,2024-09-08,F,87,Englewood,General Practice,Jersey City,26,Stand-alone zero-defect approach,9736.63,False,True,False,True
+C78,P26,D08,PC34,D002,147.95,2024-06-28,F,87,Englewood,Pediatrics,Jersey City,35,Function-based maximized leverage,7548.75,False,True,False,True
+C80,P26,D0,PC34,D003,147.95,2024-09-06,F,87,Englewood,General Practice,Englewood,15,Function-based maximized leverage,7548.75,False,True,False,True
+C75,P26,D5,PC8,D002,147.95,2024-03-20,F,87,Englewood,General Practice,Englewood,13,Customer-focused executive artificial intelligence,2460.79,False,True,False,True
+C74,P26,D1,PC34,D003,147.95,2024-09-10,F,87,Englewood,General Practice,Newark,3,Function-based maximized leverage,7548.75,False,True,False,True
+C81,P26,D8,PC03,D002,147.95,2024-08-03,F,87,Englewood,Pediatrics,Jersey City,5,Customer-focused context-sensitive Local Area Network,8646.55,False,True,False,True
+C79,P26,D7,PC23,D002,147.95,2024-01-01,F,87,Englewood,Cardiology,Englewood,6,Customizable non-volatile portal,5433.09,False,True,False,True
+C86,P87,D08,PC04,D005,147.95,2024-05-29,M,76,Newark,Pediatrics,Jersey City,35,Advanced tertiary knowledgebase,7616.89,False,True,False,True
+C85,P87,D09,PC04,D005,147.95,2024-01-29,M,76,Newark,Pediatrics,Englewood,10,Advanced tertiary knowledgebase,7616.89,False,True,False,True
+C84,P87,D6,PC04,D005,147.95,2024-01-01,M,76,Newark,Pediatrics,Clifton,34,Advanced tertiary knowledgebase,7616.89,False,True,False,True
+C82,P87,D7,PC33,D005,147.95,2024-01-01,M,76,Newark,Cardiology,Englewood,6,Extended transitional task-force,7965.02,False,True,False,True
+C87,P87,D00,PC33,D005,147.95,2024-03-17,M,76,Newark,Cardiology,Englewood,31,Extended transitional task-force,7965.02,False,True,False,True
+C83,P87,D8,PC33,D005,147.95,2024-03-25,M,76,Newark,Pediatrics,Jersey City,5,Extended transitional task-force,7965.02,False,True,False,True
+C92,P27,D08,PC34,D002,147.95,2024-09-13,F,48,Englewood,Pediatrics,Jersey City,35,Function-based maximized leverage,7548.75,False,True,False,True
+C90,P27,D04,PC34,D002,147.95,2024-09-13,F,48,Englewood,General Practice,Englewood,4,Function-based maximized leverage,7548.75,False,True,False,True
+C88,P27,D6,PC28,D002,147.95,2024-09-13,F,48,Englewood,Pediatrics,Clifton,34,Advanced tertiary knowledgebase,9514.25,False,True,False,True
+C94,P27,D8,PC39,D002,147.95,2024-09-13,F,48,Englewood,Pediatrics,Jersey City,5,Stand-alone zero-defect approach,9736.63,False,True,False,True
+C91,P27,D5,PC18,D002,147.95,2024-09-13,F,48,Englewood,General Practice,Englewood,13,Focused disintermediate definition,6245.46,False,True,False,True
+C89,P27,D07,PC9,D002,147.95,2024-09-13,F,48,Englewood,Pediatrics,Jersey City,36,Customer-focused context-sensitive Local Area Network,5464.04,False,True,False,True
+C93,P27,D08,PC8,D002,147.95,2024-09-13,F,48,Englewood,Pediatrics,Jersey City,35,Customer-focused executive artificial intelligence,2460.79,False,True,False,True
+C96,P54,D06,PC33,D004,147.95,2024-07-13,F,88,Englewood,Cardiology,Englewood,7,Extended transitional task-force,7965.02,False,True,False,True
+C97,P54,D8,PC24,D005,147.95,2024-08-15,F,88,Englewood,Pediatrics,Jersey City,5,Customer-focused context-sensitive Local Area Network,1947.89,False,True,False,True
+C95,P54,D08,PC24,D005,147.95,2024-06-11,F,88,Englewood,Pediatrics,Jersey City,35,Customer-focused context-sensitive Local Area Network,1947.89,False,True,False,True
+C000,P32,D06,PC18,D001,5287.26,2024-09-03,F,67,Newark,Cardiology,Englewood,7,Focused disintermediate definition,6245.46,False,False,False,False
+C98,P32,D5,PC01,D001,5286.22,2024-12-16,F,67,Newark,General Practice,Englewood,13,Multi-lateral needs-based circuit,9284.66,False,False,False,False
+C99,P32,D2,PC01,D001,5286.06,2024-10-23,F,67,Newark,Oncology,Englewood,20,Multi-lateral needs-based circuit,9284.66,False,False,False,False
+C003,P11,D8,PC26,D003,1914.98,2024-05-21,F,54,Clifton,Pediatrics,Jersey City,5,Customizable non-volatile portal,9525.52,False,False,False,False
+C002,P11,D06,PC00,D003,1914.29,2024-06-09,F,54,Clifton,Cardiology,Englewood,7,Extended 5thgeneration capability,4336.47,False,False,False,False
+C004,P11,D4,PC00,D003,1914.31,2024-05-31,F,54,Clifton,Oncology,Newark,3,Extended 5thgeneration capability,4336.47,False,False,False,False
+C001,P11,D8,PC19,D003,1913.97,2024-05-23,F,54,Clifton,Pediatrics,Jersey City,5,Adaptive executive knowledge user,4830.64,False,False,False,False
+C006,P51,D1,PC24,D005,147.95,2024-10-16,M,81,Newark,General Practice,Newark,3,Customer-focused context-sensitive Local Area Network,1947.89,False,True,False,True
+C005,P51,D0,PC24,D005,147.95,2024-11-11,M,81,Newark,General Practice,Englewood,15,Customer-focused context-sensitive Local Area Network,1947.89,False,True,False,True
+C007,P10,D08,PC9,D003,9683.64,2024-08-14,F,41,Jersey City,Pediatrics,Jersey City,35,Customer-focused context-sensitive Local Area Network,5464.04,True,False,False,True
+C010,P10,D06,PC23,D002,9683.93,2024-08-14,F,41,Jersey City,Cardiology,Englewood,7,Customizable non-volatile portal,5433.09,True,False,False,True
+C008,P10,D8,PC23,D002,9683.41,2024-08-14,F,41,Jersey City,Pediatrics,Jersey City,5,Customizable non-volatile portal,5433.09,True,False,False,True
+C009,P10,D04,PC38,D002,9683.57,2024-08-14,F,41,Jersey City,General Practice,Englewood,4,Progressive 24/7 moderator,687.9,True,False,False,True
+C011,P45,D1,PC21,D005,147.95,2024-11-03,M,23,Jersey City,General Practice,Newark,3,Progressive 24/7 moderator,7524.22,False,True,False,True
+C017,P45,D04,PC25,D005,147.95,2024-08-03,M,23,Jersey City,General Practice,Englewood,4,Advanced regional product,9643.24,False,True,False,True
+C013,P45,D2,PC24,D005,147.95,2024-07-29,M,23,Jersey City,Oncology,Englewood,20,Customer-focused context-sensitive Local Area Network,1947.89,False,True,False,True
+C012,P45,D08,PC21,D005,147.95,2024-07-06,M,23,Jersey City,Pediatrics,Jersey City,35,Progressive 24/7 moderator,7524.22,False,True,False,True
+C014,P45,D1,PC26,D005,147.95,2024-10-22,M,23,Jersey City,General Practice,Newark,3,Customizable non-volatile portal,9525.52,False,True,False,True
+C016,P45,D3,PC06,D005,147.95,2024-07-15,M,23,Jersey City,General Practice,Jersey City,26,Self-enabling leadingedge neural-net,8409.8,False,True,False,True
+C015,P45,D08,PC13,D005,147.95,2024-09-03,M,23,Jersey City,Pediatrics,Jersey City,35,Reactive methodical extranet,3981.49,False,True,False,True
+C018,P45,D08,PC21,D005,147.95,2024-08-23,M,23,Jersey City,Pediatrics,Jersey City,35,Progressive 24/7 moderator,7524.22,False,True,False,True
+C019,P45,D0,PC10,D005,147.95,2024-12-30,M,23,Jersey City,General Practice,Englewood,15,Advanced regional product,4424.78,False,True,False,True
+C022,P00,D08,PC26,D005,2215.63,2024-08-07,F,84,Englewood,Pediatrics,Jersey City,35,Customizable non-volatile portal,9525.52,False,False,False,False
+C021,P00,D6,PC32,D005,2215.5,2024-09-04,F,84,Englewood,Pediatrics,Clifton,34,Re-engineered leadingedge capability,4915.21,False,False,False,False
+C025,P00,D04,PC08,D005,2215.46,2024-08-07,F,84,Englewood,General Practice,Englewood,4,Cross-group bottom-line data-warehouse,3989.28,False,False,False,False
+C026,P00,D8,PC26,D005,2215.43,2024-08-07,F,84,Englewood,Pediatrics,Jersey City,5,Customizable non-volatile portal,9525.52,False,False,False,False
+C027,P00,D6,PC13,D005,2215.64,2024-08-08,F,84,Englewood,Pediatrics,Clifton,34,Reactive methodical extranet,3981.49,False,False,False,False
+C023,P00,D1,PC26,D005,2215.46,2024-08-11,F,84,Englewood,General Practice,Newark,3,Customizable non-volatile portal,9525.52,False,False,False,False
+C020,P00,D6,PC26,D005,2215.55,2024-08-15,F,84,Englewood,Pediatrics,Clifton,34,Customizable non-volatile portal,9525.52,False,False,False,False
+C028,P00,D6,PC32,D005,2215.46,2024-08-07,F,84,Englewood,Pediatrics,Clifton,34,Re-engineered leadingedge capability,4915.21,False,False,False,False
+C024,P00,D08,PC08,D005,2215.95,2024-08-11,F,84,Englewood,Pediatrics,Jersey City,35,Cross-group bottom-line data-warehouse,3989.28,False,False,False,False
+C031,P21,D8,PC00,D004,147.95,2024-10-18,M,38,Jersey City,Pediatrics,Jersey City,5,Extended 5thgeneration capability,4336.47,False,True,False,True
+C030,P21,D07,PC00,D004,147.95,2024-10-18,M,38,Jersey City,Pediatrics,Jersey City,36,Extended 5thgeneration capability,4336.47,False,True,False,True
+C032,P21,D07,PC21,D004,147.95,2024-10-18,M,38,Jersey City,Pediatrics,Jersey City,36,Progressive 24/7 moderator,7524.22,False,True,False,True
+C029,P21,D08,PC13,D004,147.95,2024-10-18,M,38,Jersey City,Pediatrics,Jersey City,35,Reactive methodical extranet,3981.49,False,True,False,True
+C033,P21,D04,PC23,D004,147.95,2024-10-18,M,38,Jersey City,General Practice,Englewood,4,Customizable non-volatile portal,5433.09,False,True,False,True
+C034,P41,D9,PC11,D004,11209.51,2024-02-06,F,79,Jersey City,Cardiology,Clifton,24,Multi-channeled 3rdgeneration framework,5376.84,True,False,False,True
+C036,P41,D09,PC11,D004,11209.51,2024-04-23,F,79,Jersey City,Pediatrics,Englewood,10,Multi-channeled 3rdgeneration framework,5376.84,True,False,False,True
+C035,P41,D06,PC30,D004,11209.49,2024-04-26,F,79,Jersey City,Cardiology,Englewood,7,Vision-oriented upward-trending encoding,4916.73,True,False,False,True
+C037,P14,D05,PC33,D001,147.95,2024-05-19,F,62,Englewood,Oncology,Jersey City,38,Extended transitional task-force,7965.02,False,True,False,True
+C039,P14,D5,PC26,D004,147.95,2024-09-23,F,62,Englewood,General Practice,Englewood,13,Customizable non-volatile portal,9525.52,False,True,False,True
+C038,P14,D9,PC04,D001,147.95,2024-09-11,F,62,Englewood,Cardiology,Clifton,24,Advanced tertiary knowledgebase,7616.89,False,True,False,True
+C040,P14,D8,PC39,D004,147.95,2024-09-18,F,62,Englewood,Pediatrics,Jersey City,5,Stand-alone zero-defect approach,9736.63,False,True,False,True
+C046,P63,D04,PC9,D002,147.95,2024-07-17,F,88,Newark,General Practice,Englewood,4,Customer-focused context-sensitive Local Area Network,5464.04,False,True,False,True
+C043,P63,D03,PC39,D002,147.95,2024-07-12,F,88,Newark,Oncology,Jersey City,30,Stand-alone zero-defect approach,9736.63,False,True,False,True
+C045,P63,D08,PC39,D002,147.95,2024-09-21,F,88,Newark,Pediatrics,Jersey City,35,Stand-alone zero-defect approach,9736.63,False,True,False,True
+C041,P63,D3,PC36,D002,147.95,2024-06-05,F,88,Newark,General Practice,Jersey City,26,Self-enabling leadingedge neural-net,2262.87,False,True,False,True
+C048,P63,D8,PC23,D002,147.95,2024-02-12,F,88,Newark,Pediatrics,Jersey City,5,Customizable non-volatile portal,5433.09,False,True,False,True
+C042,P63,D8,PC03,D002,147.95,2024-10-27,F,88,Newark,Pediatrics,Jersey City,5,Customer-focused context-sensitive Local Area Network,8646.55,False,True,False,True
+C049,P63,D04,PC39,D002,147.95,2024-06-03,F,88,Newark,General Practice,Englewood,4,Stand-alone zero-defect approach,9736.63,False,True,False,True
+C047,P63,D04,PC03,D002,147.95,2024-10-09,F,88,Newark,General Practice,Englewood,4,Customer-focused context-sensitive Local Area Network,8646.55,False,True,False,True
+C044,P63,D6,PC36,D002,147.95,2024-01-01,F,88,Newark,Pediatrics,Clifton,34,Self-enabling leadingedge neural-net,2262.87,False,True,False,True
+C052,P35,D1,PC21,D004,147.95,2024-09-11,F,86,Clifton,General Practice,Newark,3,Progressive 24/7 moderator,7524.22,False,True,False,True
+C051,P35,D8,PC26,D005,147.95,2024-09-07,F,86,Clifton,Pediatrics,Jersey City,5,Customizable non-volatile portal,9525.52,False,True,False,True
+C050,P35,D05,PC33,D005,147.95,2024-06-21,F,86,Clifton,Oncology,Jersey City,38,Extended transitional task-force,7965.02,False,True,False,True
+C053,P0,D02,PC00,D004,147.95,2024-12-22,M,75,Englewood,General Practice,Jersey City,18,Extended 5thgeneration capability,4336.47,False,True,False,True
+C055,P0,D00,PC33,D004,147.95,2024-04-14,M,75,Englewood,Cardiology,Englewood,31,Extended transitional task-force,7965.02,False,True,False,True
+C056,P0,D5,PC00,D004,147.95,2024-06-21,M,75,Englewood,General Practice,Englewood,13,Extended 5thgeneration capability,4336.47,False,True,False,True
+C054,P0,D08,PC00,D004,147.95,2024-03-21,M,75,Englewood,Pediatrics,Jersey City,35,Extended 5thgeneration capability,4336.47,False,True,False,True
+C057,P0,D9,PC00,D004,147.95,2024-11-01,M,75,Englewood,Cardiology,Clifton,24,Extended 5thgeneration capability,4336.47,False,True,False,True
+C058,P73,D8,PC26,D001,147.95,2024-10-15,F,88,Clifton,Pediatrics,Jersey City,5,Customizable non-volatile portal,9525.52,False,True,False,True
+C059,P73,D5,PC36,D001,147.95,2024-06-18,F,88,Clifton,General Practice,Englewood,13,Self-enabling leadingedge neural-net,2262.87,False,True,False,True
+C065,P88,D6,PC04,D005,147.95,2024-01-01,M,28,Englewood,Pediatrics,Clifton,34,Advanced tertiary knowledgebase,7616.89,False,True,False,True
+C060,P88,D5,PC26,D004,147.95,2024-07-30,M,28,Englewood,General Practice,Englewood,13,Customizable non-volatile portal,9525.52,False,True,False,True
+C062,P88,D7,PC2,D004,147.95,2024-01-01,M,28,Englewood,Cardiology,Englewood,6,Upgradable 24hour secured line,3698.04,False,True,False,True
+C063,P88,D01,PC9,D004,147.95,2024-01-20,M,28,Englewood,Pediatrics,Clifton,17,Customer-focused context-sensitive Local Area Network,5464.04,False,True,False,True
+C061,P88,D8,PC04,D005,147.95,2024-01-21,M,28,Englewood,Pediatrics,Jersey City,5,Advanced tertiary knowledgebase,7616.89,False,True,False,True
+C064,P88,D3,PC26,D004,147.95,2024-04-26,M,28,Englewood,General Practice,Jersey City,26,Customizable non-volatile portal,9525.52,False,True,False,True
+C066,P01,D1,PC06,D005,147.95,2024-10-23,F,45,Englewood,General Practice,Newark,3,Self-enabling leadingedge neural-net,8409.8,False,True,False,True
+C071,P28,D6,PC26,D005,147.95,2024-09-18,M,54,Newark,Pediatrics,Clifton,34,Customizable non-volatile portal,9525.52,False,True,False,True
+C068,P28,D2,PC14,D005,147.95,2024-12-07,M,54,Newark,Oncology,Englewood,20,Reactive methodical extranet,5137.21,False,True,False,True
+C067,P28,D08,PC14,D005,147.95,2024-07-07,M,54,Newark,Pediatrics,Jersey City,35,Reactive methodical extranet,5137.21,False,True,False,True
+C070,P28,D2,PC06,D005,147.95,2024-08-31,M,54,Newark,Oncology,Englewood,20,Self-enabling leadingedge neural-net,8409.8,False,True,False,True
+C069,P28,D2,PC32,D005,147.95,2024-12-16,M,54,Newark,Oncology,Englewood,20,Re-engineered leadingedge capability,4915.21,False,True,False,True
+C072,P28,D08,PC14,D005,147.95,2024-10-29,M,54,Newark,Pediatrics,Jersey City,35,Reactive methodical extranet,5137.21,False,True,False,True
+C073,P29,D08,PC04,D005,1429.65,2024-07-25,M,60,Clifton,Pediatrics,Jersey City,35,Advanced tertiary knowledgebase,7616.89,False,False,False,False
+C074,P29,D8,PC14,D005,1429.39,2024-08-09,M,60,Clifton,Pediatrics,Jersey City,5,Reactive methodical extranet,5137.21,False,False,False,False
+C075,P61,D03,PC14,D004,147.95,2024-12-05,F,58,Clifton,Oncology,Jersey City,30,Reactive methodical extranet,5137.21,False,True,False,True
+C078,P61,D01,PC13,D004,147.95,2024-10-19,F,58,Clifton,Pediatrics,Clifton,17,Reactive methodical extranet,3981.49,False,True,False,True
+C079,P61,D2,PC28,D004,147.95,2024-12-06,F,58,Clifton,Oncology,Englewood,20,Advanced tertiary knowledgebase,9514.25,False,True,False,True
+C076,P61,D9,PC14,D004,147.95,2024-11-20,F,58,Clifton,Cardiology,Clifton,24,Reactive methodical extranet,5137.21,False,True,False,True
+C077,P61,D7,PC19,D004,147.95,2024-10-17,F,58,Clifton,Cardiology,Englewood,6,Adaptive executive knowledge user,4830.64,False,True,False,True
+C082,P31,D1,PC27,D001,147.95,2024-05-06,F,53,Englewood,General Practice,Newark,3,Advanced tertiary knowledgebase,8231.15,False,True,False,True
+C085,P31,D5,PC00,D001,147.95,2024-08-01,F,53,Englewood,General Practice,Englewood,13,Extended 5thgeneration capability,4336.47,False,True,False,True
+C081,P31,D04,PC36,D001,147.95,2024-07-18,F,53,Englewood,General Practice,Englewood,4,Self-enabling leadingedge neural-net,2262.87,False,True,False,True
+C086,P31,D5,PC00,D001,147.95,2024-08-10,F,53,Englewood,General Practice,Englewood,13,Extended 5thgeneration capability,4336.47,False,True,False,True
+C080,P31,D08,PC9,D001,147.95,2024-05-29,F,53,Englewood,Pediatrics,Jersey City,35,Customer-focused context-sensitive Local Area Network,5464.04,False,True,False,True
+C083,P31,D09,PC19,D001,147.95,2024-08-09,F,53,Englewood,Pediatrics,Englewood,10,Adaptive executive knowledge user,4830.64,False,True,False,True
+C084,P31,D01,PC36,D001,147.95,2024-07-09,F,53,Englewood,Pediatrics,Clifton,17,Self-enabling leadingedge neural-net,2262.87,False,True,False,True
+C089,P75,D07,PC06,D005,147.95,2024-09-27,M,43,Newark,Pediatrics,Jersey City,36,Self-enabling leadingedge neural-net,8409.8,False,True,False,True
+C091,P75,D7,PC23,D005,147.95,2024-08-19,M,43,Newark,Cardiology,Englewood,6,Customizable non-volatile portal,5433.09,False,True,False,True
+C090,P75,D8,PC06,D005,147.95,2024-08-05,M,43,Newark,Pediatrics,Jersey City,5,Self-enabling leadingedge neural-net,8409.8,False,True,False,True
+C087,P75,D8,PC06,D005,147.95,2024-08-05,M,43,Newark,Pediatrics,Jersey City,5,Self-enabling leadingedge neural-net,8409.8,False,True,False,True
+C088,P75,D04,PC06,D005,147.95,2024-10-27,M,43,Newark,General Practice,Englewood,4,Self-enabling leadingedge neural-net,8409.8,False,True,False,True
+C092,P75,D8,PC06,D005,147.95,2024-08-08,M,43,Newark,Pediatrics,Jersey City,5,Self-enabling leadingedge neural-net,8409.8,False,True,False,True
+C097,P38,D08,PC13,D001,147.95,2024-03-16,M,49,Englewood,Pediatrics,Jersey City,35,Reactive methodical extranet,3981.49,False,True,False,True
+C094,P38,D04,PC28,D001,147.95,2024-08-17,M,49,Englewood,General Practice,Englewood,4,Advanced tertiary knowledgebase,9514.25,False,True,False,True
+C093,P38,D7,PC36,D001,147.95,2024-06-10,M,49,Englewood,Cardiology,Englewood,6,Self-enabling leadingedge neural-net,2262.87,False,True,False,True
+C095,P38,D06,PC28,D001,147.95,2024-08-14,M,49,Englewood,Cardiology,Englewood,7,Advanced tertiary knowledgebase,9514.25,False,True,False,True
+C098,P38,D5,PC23,D001,147.95,2024-04-23,M,49,Englewood,General Practice,Englewood,13,Customizable non-volatile portal,5433.09,False,True,False,True
+C099,P38,D8,PC19,D001,147.95,2024-08-26,M,49,Englewood,Pediatrics,Jersey City,5,Adaptive executive knowledge user,4830.64,False,True,False,True
+C096,P38,D03,PC13,D001,147.95,2024-06-28,M,49,Englewood,Oncology,Jersey City,30,Reactive methodical extranet,3981.49,False,True,False,True
+C100,P9,D6,PC08,D005,8156.92,2024-10-27,M,77,Newark,Pediatrics,Clifton,34,Cross-group bottom-line data-warehouse,3989.28,False,False,False,False
+C101,P70,D3,PC19,D003,147.95,2024-06-12,F,68,Clifton,General Practice,Jersey City,26,Adaptive executive knowledge user,4830.64,False,True,False,True
+C103,P33,D2,PC04,D004,147.95,2024-04-21,M,32,Englewood,Oncology,Englewood,20,Advanced tertiary knowledgebase,7616.89,False,True,False,True
+C102,P33,D08,PC14,D004,147.95,2024-09-18,M,32,Englewood,Pediatrics,Jersey City,35,Reactive methodical extranet,5137.21,False,True,False,True
+C109,P8,D02,PC13,D004,7725.4,2024-10-18,M,76,Englewood,General Practice,Jersey City,18,Reactive methodical extranet,3981.49,False,False,False,False
+C107,P8,D0,PC03,D001,7725.33,2024-08-25,M,76,Englewood,General Practice,Englewood,15,Customer-focused context-sensitive Local Area Network,8646.55,False,False,False,False
+C106,P8,D00,PC00,D001,7725.37,2024-06-13,M,76,Englewood,Cardiology,Englewood,31,Extended 5thgeneration capability,4336.47,False,False,False,False
+C108,P8,D03,PC04,D001,7725.34,2024-03-29,M,76,Englewood,Oncology,Jersey City,30,Advanced tertiary knowledgebase,7616.89,False,False,False,False
+C104,P8,D05,PC00,D004,7725.36,2024-10-17,M,76,Englewood,Oncology,Jersey City,38,Extended 5thgeneration capability,4336.47,False,False,False,False
+C105,P8,D9,PC10,D001,7725.34,2024-08-13,M,76,Englewood,Cardiology,Clifton,24,Advanced regional product,4424.78,False,False,False,False
+C112,P49,D00,PC27,D005,147.95,2024-05-06,M,63,Clifton,Cardiology,Englewood,31,Advanced tertiary knowledgebase,8231.15,False,True,False,True
+C110,P49,D08,PC04,D005,147.95,2024-06-29,M,63,Clifton,Pediatrics,Jersey City,35,Advanced tertiary knowledgebase,7616.89,False,True,False,True
+C111,P49,D08,PC4,D005,147.95,2024-07-10,M,63,Clifton,Pediatrics,Jersey City,35,User-centric 3rdgeneration flexibility,2132.26,False,True,False,True
+C119,P89,D06,PC04,D004,147.95,2024-02-09,M,74,Englewood,Cardiology,Englewood,7,Advanced tertiary knowledgebase,7616.89,False,True,False,True
+C120,P89,D2,PC36,D004,147.95,2024-09-01,M,74,Englewood,Oncology,Englewood,20,Self-enabling leadingedge neural-net,2262.87,False,True,False,True
+C113,P89,D7,PC36,D004,147.95,2024-09-09,M,74,Englewood,Cardiology,Englewood,6,Self-enabling leadingedge neural-net,2262.87,False,True,False,True
+C118,P89,D00,PC32,D004,147.95,2024-11-07,M,74,Englewood,Cardiology,Englewood,31,Re-engineered leadingedge capability,4915.21,False,True,False,True
+C121,P89,D06,PC27,D004,147.95,2024-02-27,M,74,Englewood,Cardiology,Englewood,7,Advanced tertiary knowledgebase,8231.15,False,True,False,True
+C116,P89,D7,PC36,D004,147.95,2024-10-20,M,74,Englewood,Cardiology,Englewood,6,Self-enabling leadingedge neural-net,2262.87,False,True,False,True
+C115,P89,D08,PC11,D004,147.95,2024-06-08,M,74,Englewood,Pediatrics,Jersey City,35,Multi-channeled 3rdgeneration framework,5376.84,False,True,False,True
+C117,P89,D09,PC27,D004,147.95,2024-06-29,M,74,Englewood,Pediatrics,Englewood,10,Advanced tertiary knowledgebase,8231.15,False,True,False,True
+C114,P89,D7,PC2,D001,147.95,2024-01-08,M,74,Englewood,Cardiology,Englewood,6,Upgradable 24hour secured line,3698.04,False,True,False,True
+C123,P67,D8,PC19,D002,147.95,2024-04-17,F,79,Jersey City,Pediatrics,Jersey City,5,Adaptive executive knowledge user,4830.64,False,True,False,True
+C122,P67,D5,PC03,D002,147.95,2024-05-21,F,79,Jersey City,General Practice,Englewood,13,Customer-focused context-sensitive Local Area Network,8646.55,False,True,False,True
+C125,P67,D03,PC28,D002,147.95,2024-04-29,F,79,Jersey City,Oncology,Jersey City,30,Advanced tertiary knowledgebase,9514.25,False,True,False,True
+C129,P67,D06,PC19,D002,147.95,2024-06-02,F,79,Jersey City,Cardiology,Englewood,7,Adaptive executive knowledge user,4830.64,False,True,False,True
+C127,P67,D8,PC19,D002,147.95,2024-04-18,F,79,Jersey City,Pediatrics,Jersey City,5,Adaptive executive knowledge user,4830.64,False,True,False,True
+C128,P67,D6,PC18,D002,147.95,2024-06-04,F,79,Jersey City,Pediatrics,Clifton,34,Focused disintermediate definition,6245.46,False,True,False,True
+C126,P67,D6,PC9,D002,147.95,2024-04-26,F,79,Jersey City,Pediatrics,Clifton,34,Customer-focused context-sensitive Local Area Network,5464.04,False,True,False,True
+C124,P67,D01,PC03,D002,147.95,2024-04-18,F,79,Jersey City,Pediatrics,Clifton,17,Customer-focused context-sensitive Local Area Network,8646.55,False,True,False,True
+C135,P80,D6,PC09,D004,3836.72,2024-07-30,M,79,Clifton,Pediatrics,Clifton,34,Adaptive executive knowledge user,5638.41,False,False,False,False
+C131,P80,D04,PC25,D004,3836.32,2024-04-22,M,79,Clifton,General Practice,Englewood,4,Advanced regional product,9643.24,False,False,False,False
+C133,P80,D7,PC9,D004,3836.52,2024-05-02,M,79,Clifton,Cardiology,Englewood,6,Customer-focused context-sensitive Local Area Network,5464.04,False,False,False,False
+C136,P80,D2,PC06,D004,3836.38,2024-04-01,M,79,Clifton,Oncology,Englewood,20,Self-enabling leadingedge neural-net,8409.8,False,False,False,False
+C130,P80,D5,PC23,D004,3836.44,2024-07-11,M,79,Clifton,General Practice,Englewood,13,Customizable non-volatile portal,5433.09,False,False,False,False
+C132,P80,D07,PC01,D004,3836.33,2024-04-05,M,79,Clifton,Pediatrics,Jersey City,36,Multi-lateral needs-based circuit,9284.66,False,False,False,False
+C134,P80,D2,PC3,D004,3836.36,2024-05-24,M,79,Clifton,Oncology,Englewood,20,Customer-focused executive artificial intelligence,3849.59,False,False,False,False
+C137,P07,D0,PC5,D005,4132.65,2024-03-07,M,59,Englewood,General Practice,Englewood,15,User-centric 3rdgeneration flexibility,6592.01,False,False,False,False
+C144,P07,D6,PC12,D005,4132.62,2024-09-20,M,59,Englewood,Pediatrics,Clifton,34,Cross-platform executive help-desk,7098.88,False,False,False,False
+C142,P07,D1,PC01,D005,4132.62,2024-06-20,M,59,Englewood,General Practice,Newark,3,Multi-lateral needs-based circuit,9284.66,False,False,False,False
+C139,P07,D07,PC08,D005,4132.63,2024-10-13,M,59,Englewood,Pediatrics,Jersey City,36,Cross-group bottom-line data-warehouse,3989.28,False,False,False,False
+C138,P07,D6,PC27,D005,4132.66,2024-03-16,M,59,Englewood,Pediatrics,Clifton,34,Advanced tertiary knowledgebase,8231.15,False,False,False,False
+C140,P07,D04,PC18,D005,4132.59,2024-09-01,M,59,Englewood,General Practice,Englewood,4,Focused disintermediate definition,6245.46,False,False,False,False
+C143,P07,D00,PC32,D005,4132.63,2024-06-17,M,59,Englewood,Cardiology,Englewood,31,Re-engineered leadingedge capability,4915.21,False,False,False,False
+C141,P07,D6,PC5,D005,4132.63,2024-03-10,M,59,Englewood,Pediatrics,Clifton,34,User-centric 3rdgeneration flexibility,6592.01,False,False,False,False
+C146,P78,D1,PC00,D005,147.95,2024-08-21,F,44,Newark,General Practice,Newark,3,Extended 5thgeneration capability,4336.47,False,True,False,True
+C149,P78,D6,PC4,D005,147.95,2024-06-13,F,44,Newark,Pediatrics,Clifton,34,User-centric 3rdgeneration flexibility,2132.26,False,True,False,True
+C148,P78,D00,PC04,D005,147.95,2024-06-06,F,44,Newark,Cardiology,Englewood,31,Advanced tertiary knowledgebase,7616.89,False,True,False,True
+C147,P78,D2,PC14,D005,147.95,2024-05-12,F,44,Newark,Oncology,Englewood,20,Reactive methodical extranet,5137.21,False,True,False,True
+C145,P78,D04,PC04,D005,147.95,2024-08-16,F,44,Newark,General Practice,Englewood,4,Advanced tertiary knowledgebase,7616.89,False,True,False,True
+C150,P57,D04,PC19,D005,147.95,2024-11-15,M,27,Newark,General Practice,Englewood,4,Adaptive executive knowledge user,4830.64,False,True,False,True
+C151,P57,D0,PC25,D005,147.95,2024-09-04,M,27,Newark,General Practice,Englewood,15,Advanced regional product,9643.24,False,True,False,True
+C159,P2,D06,PC03,D001,147.95,2024-05-19,F,80,Clifton,Cardiology,Englewood,7,Customer-focused context-sensitive Local Area Network,8646.55,False,True,False,True
+C154,P2,D03,PC28,D003,147.95,2024-07-14,F,80,Clifton,Oncology,Jersey City,30,Advanced tertiary knowledgebase,9514.25,False,True,False,True
+C158,P2,D01,PC36,D001,147.95,2024-05-15,F,80,Clifton,Pediatrics,Clifton,17,Self-enabling leadingedge neural-net,2262.87,False,True,False,True
+C155,P2,D5,PC19,D001,147.95,2024-05-31,F,80,Clifton,General Practice,Englewood,13,Adaptive executive knowledge user,4830.64,False,True,False,True
+C156,P2,D01,PC32,D001,147.95,2024-07-06,F,80,Clifton,Pediatrics,Clifton,17,Re-engineered leadingedge capability,4915.21,False,True,False,True
+C157,P2,D3,PC32,D003,147.95,2024-06-17,F,80,Clifton,General Practice,Jersey City,26,Re-engineered leadingedge capability,4915.21,False,True,False,True
+C153,P2,D01,PC27,D001,147.95,2024-07-08,F,80,Clifton,Pediatrics,Clifton,17,Advanced tertiary knowledgebase,8231.15,False,True,False,True
+C152,P2,D03,PC36,D001,147.95,2024-05-09,F,80,Clifton,Oncology,Jersey City,30,Self-enabling leadingedge neural-net,2262.87,False,True,False,True
+C161,P6,D2,PC23,D005,147.95,2024-04-24,M,28,Englewood,Oncology,Englewood,20,Customizable non-volatile portal,5433.09,False,True,False,True
+C162,P6,D2,PC04,D005,147.95,2024-06-04,M,28,Englewood,Oncology,Englewood,20,Advanced tertiary knowledgebase,7616.89,False,True,False,True
+C163,P6,D00,PC04,D005,147.95,2024-05-17,M,28,Englewood,Cardiology,Englewood,31,Advanced tertiary knowledgebase,7616.89,False,True,False,True
+C160,P6,D00,PC32,D005,147.95,2024-04-26,M,28,Englewood,Cardiology,Englewood,31,Re-engineered leadingedge capability,4915.21,False,True,False,True
+C164,P6,D3,PC25,D005,147.95,2024-04-16,M,28,Englewood,General Practice,Jersey City,26,Advanced regional product,9643.24,False,True,False,True
+C166,P6,D1,PC4,D005,147.95,2024-09-01,M,28,Englewood,General Practice,Newark,3,User-centric 3rdgeneration flexibility,2132.26,False,True,False,True
+C165,P6,D6,PC27,D005,147.95,2024-05-12,M,28,Englewood,Pediatrics,Clifton,34,Advanced tertiary knowledgebase,8231.15,False,True,False,True
+C170,P42,D00,PC5,D002,8016.61,2024-01-01,F,75,Englewood,Cardiology,Englewood,31,User-centric 3rdgeneration flexibility,6592.01,False,False,False,False
+C172,P42,D06,PC36,D002,8016.33,2024-06-02,F,75,Englewood,Cardiology,Englewood,7,Self-enabling leadingedge neural-net,2262.87,False,False,False,False
+C171,P42,D01,PC36,D002,8016.21,2024-01-04,F,75,Englewood,Pediatrics,Clifton,17,Self-enabling leadingedge neural-net,2262.87,False,False,False,False
+C169,P42,D04,PC25,D002,8016.12,2024-04-11,F,75,Englewood,General Practice,Englewood,4,Advanced regional product,9643.24,False,False,False,False
+C167,P42,D00,PC25,D002,8016.6,2024-01-01,F,75,Englewood,Cardiology,Englewood,31,Advanced regional product,9643.24,False,False,False,False
+C168,P42,D01,PC38,D002,8016.28,2024-06-09,F,75,Englewood,Pediatrics,Clifton,17,Progressive 24/7 moderator,687.9,False,False,False,False
+C174,P52,D5,PC09,D004,147.95,2024-12-30,M,39,Newark,General Practice,Englewood,13,Adaptive executive knowledge user,5638.41,False,True,False,True
+C173,P52,D04,PC6,D004,147.95,2024-11-12,M,39,Newark,General Practice,Englewood,4,Expanded local success,6684.65,False,True,False,True
+C176,P55,D05,PC3,D002,147.95,2024-01-01,F,64,Jersey City,Oncology,Jersey City,38,Customer-focused executive artificial intelligence,3849.59,False,True,False,True
+C181,P55,D3,PC9,D002,147.95,2024-05-26,F,64,Jersey City,General Practice,Jersey City,26,Customer-focused context-sensitive Local Area Network,5464.04,False,True,False,True
+C183,P55,D07,PC8,D002,147.95,2024-05-10,F,64,Jersey City,Pediatrics,Jersey City,36,Customer-focused executive artificial intelligence,2460.79,False,True,False,True
+C182,P55,D5,PC9,D002,147.95,2024-07-17,F,64,Jersey City,General Practice,Englewood,13,Customer-focused context-sensitive Local Area Network,5464.04,False,True,False,True
+C184,P55,D09,PC2,D002,147.95,2024-01-01,F,64,Jersey City,Pediatrics,Englewood,10,Upgradable 24hour secured line,3698.04,False,True,False,True
+C179,P55,D3,PC8,D002,147.95,2024-04-03,F,64,Jersey City,General Practice,Jersey City,26,Customer-focused executive artificial intelligence,2460.79,False,True,False,True
+C178,P55,D01,PC2,D002,147.95,2024-03-09,F,64,Jersey City,Pediatrics,Clifton,17,Upgradable 24hour secured line,3698.04,False,True,False,True
+C175,P55,D01,PC38,D002,147.95,2024-02-08,F,64,Jersey City,Pediatrics,Clifton,17,Progressive 24/7 moderator,687.9,False,True,False,True
+C180,P55,D01,PC2,D002,147.95,2024-01-01,F,64,Jersey City,Pediatrics,Clifton,17,Upgradable 24hour secured line,3698.04,False,True,False,True
+C177,P55,D06,PC9,D002,147.95,2024-04-16,F,64,Jersey City,Cardiology,Englewood,7,Customer-focused context-sensitive Local Area Network,5464.04,False,True,False,True
+C188,P19,D5,PC32,D001,147.95,2024-08-09,M,81,Englewood,General Practice,Englewood,13,Re-engineered leadingedge capability,4915.21,False,True,False,True
+C186,P19,D06,PC6,D001,147.95,2024-10-02,M,81,Englewood,Cardiology,Englewood,7,Expanded local success,6684.65,False,True,False,True
+C185,P19,D0,PC11,D001,147.95,2024-09-15,M,81,Englewood,General Practice,Englewood,15,Multi-channeled 3rdgeneration framework,5376.84,False,True,False,True
+C187,P19,D05,PC27,D004,147.95,2024-08-08,M,81,Englewood,Oncology,Jersey City,38,Advanced tertiary knowledgebase,8231.15,False,True,False,True
+C189,P72,D00,PC32,D005,147.95,2024-07-02,F,73,Jersey City,Cardiology,Englewood,31,Re-engineered leadingedge capability,4915.21,False,True,False,True
+C192,P72,D1,PC27,D005,147.95,2024-07-28,F,73,Jersey City,General Practice,Newark,3,Advanced tertiary knowledgebase,8231.15,False,True,False,True
+C191,P72,D04,PC4,D005,147.95,2024-05-30,F,73,Jersey City,General Practice,Englewood,4,User-centric 3rdgeneration flexibility,2132.26,False,True,False,True
+C190,P72,D09,PC32,D005,147.95,2024-06-24,F,73,Jersey City,Pediatrics,Englewood,10,Re-engineered leadingedge capability,4915.21,False,True,False,True
+C197,P13,D07,PC8,D002,147.95,2024-07-28,M,42,Jersey City,Pediatrics,Jersey City,36,Customer-focused executive artificial intelligence,2460.79,False,True,False,True
+C193,P13,D01,PC9,D002,147.95,2024-06-16,M,42,Jersey City,Pediatrics,Clifton,17,Customer-focused context-sensitive Local Area Network,5464.04,False,True,False,True
+C196,P13,D3,PC8,D002,147.95,2024-03-25,M,42,Jersey City,General Practice,Jersey City,26,Customer-focused executive artificial intelligence,2460.79,False,True,False,True
+C194,P13,D01,PC38,D002,147.95,2024-03-24,M,42,Jersey City,Pediatrics,Clifton,17,Progressive 24/7 moderator,687.9,False,True,False,True
+C195,P13,D5,PC32,D002,147.95,2024-08-24,M,42,Jersey City,General Practice,Englewood,13,Re-engineered leadingedge capability,4915.21,False,True,False,True
+C198,P37,D6,PC25,D005,147.95,2024-03-04,F,52,Englewood,Pediatrics,Clifton,34,Advanced regional product,9643.24,False,True,False,True
+C204,P37,D0,PC10,D005,147.95,2024-12-05,F,52,Englewood,General Practice,Englewood,15,Advanced regional product,4424.78,False,True,False,True
+C199,P37,D3,PC25,D005,147.95,2024-07-22,F,52,Englewood,General Practice,Jersey City,26,Advanced regional product,9643.24,False,True,False,True
+C203,P37,D04,PC10,D005,147.95,2024-11-23,F,52,Englewood,General Practice,Englewood,4,Advanced regional product,4424.78,False,True,False,True
+C201,P37,D00,PC25,D005,147.95,2024-05-04,F,52,Englewood,Cardiology,Englewood,31,Advanced regional product,9643.24,False,True,False,True
+C202,P37,D9,PC10,D005,147.95,2024-12-14,F,52,Englewood,Cardiology,Clifton,24,Advanced regional product,4424.78,False,True,False,True
+C200,P37,D04,PC25,D005,147.95,2024-09-13,F,52,Englewood,General Practice,Englewood,4,Advanced regional product,9643.24,False,True,False,True
+C205,P84,D01,PC9,D003,147.95,2024-01-17,M,44,Englewood,Pediatrics,Clifton,17,Customer-focused context-sensitive Local Area Network,5464.04,False,True,False,True
+C210,P17,D00,PC10,D005,147.95,2024-06-20,M,40,Jersey City,Cardiology,Englewood,31,Advanced regional product,4424.78,False,True,False,True
+C209,P17,D00,PC01,D005,147.95,2024-12-30,M,40,Jersey City,Cardiology,Englewood,31,Multi-lateral needs-based circuit,9284.66,False,True,False,True
+C206,P17,D04,PC10,D005,147.95,2024-07-14,M,40,Jersey City,General Practice,Englewood,4,Advanced regional product,4424.78,False,True,False,True
+C208,P17,D0,PC0,D005,147.95,2024-12-21,M,40,Jersey City,General Practice,Englewood,15,Multi-lateral needs-based circuit,9738.0,False,True,False,True
+C207,P17,D04,PC01,D005,147.95,2024-12-30,M,40,Jersey City,General Practice,Englewood,4,Multi-lateral needs-based circuit,9284.66,False,True,False,True
+C211,P20,D00,PC4,D004,147.95,2024-08-22,M,36,Englewood,Cardiology,Englewood,31,User-centric 3rdgeneration flexibility,2132.26,False,True,False,True
+C212,P20,D02,PC38,D004,147.95,2024-09-12,M,36,Englewood,General Practice,Jersey City,18,Progressive 24/7 moderator,687.9,False,True,False,True
+C213,P43,D02,PC16,D001,147.95,2024-11-29,M,87,Jersey City,General Practice,Jersey City,18,Upgradable 24hour secured line,8193.48,False,True,False,True
+C216,P43,D9,PC10,D005,147.95,2024-12-02,M,87,Jersey City,Cardiology,Clifton,24,Advanced regional product,4424.78,False,True,False,True
+C215,P43,D04,PC10,D005,147.95,2024-11-24,M,87,Jersey City,General Practice,Englewood,4,Advanced regional product,4424.78,False,True,False,True
+C214,P43,D9,PC6,D005,147.95,2024-12-11,M,87,Jersey City,Cardiology,Clifton,24,Expanded local success,6684.65,False,True,False,True
+C217,P43,D9,PC6,D004,147.95,2024-12-12,M,87,Jersey City,Cardiology,Clifton,24,Expanded local success,6684.65,False,True,False,True
+C221,P83,D00,PC6,D005,147.95,2024-11-17,M,25,Englewood,Cardiology,Englewood,31,Expanded local success,6684.65,False,True,False,True
+C218,P83,D0,PC01,D005,147.95,2024-12-30,M,25,Englewood,General Practice,Englewood,15,Multi-lateral needs-based circuit,9284.66,False,True,False,True
+C219,P83,D4,PC0,D005,147.95,2024-12-30,M,25,Englewood,Oncology,Newark,3,Multi-lateral needs-based circuit,9738.0,False,True,False,True
+C220,P83,D00,PC6,D005,147.95,2024-12-30,M,25,Englewood,Cardiology,Englewood,31,Expanded local success,6684.65,False,True,False,True
+C223,P3,D3,PC38,D004,147.95,2024-03-15,M,66,Jersey City,General Practice,Jersey City,26,Progressive 24/7 moderator,687.9,False,True,False,True
+C222,P3,D5,PC38,D001,147.95,2024-06-05,M,66,Jersey City,General Practice,Englewood,13,Progressive 24/7 moderator,687.9,False,True,False,True
+C227,P3,D01,PC38,D001,147.95,2024-03-13,M,66,Jersey City,Pediatrics,Clifton,17,Progressive 24/7 moderator,687.9,False,True,False,True
+C226,P3,D5,PC9,D001,147.95,2024-04-06,M,66,Jersey City,General Practice,Englewood,13,Customer-focused context-sensitive Local Area Network,5464.04,False,True,False,True
+C225,P3,D06,PC38,D004,147.95,2024-05-13,M,66,Jersey City,Cardiology,Englewood,7,Progressive 24/7 moderator,687.9,False,True,False,True
+C224,P3,D5,PC38,D001,147.95,2024-05-09,M,66,Jersey City,General Practice,Englewood,13,Progressive 24/7 moderator,687.9,False,True,False,True
+C228,P44,D01,PC11,D001,147.95,2024-04-17,M,59,Clifton,Pediatrics,Clifton,17,Multi-channeled 3rdgeneration framework,5376.84,False,True,False,True
+C229,P44,D0,PC38,D004,147.95,2024-08-30,M,59,Clifton,General Practice,Englewood,15,Progressive 24/7 moderator,687.9,False,True,False,True
+C231,P44,D01,PC17,D004,147.95,2024-04-25,M,59,Clifton,Pediatrics,Clifton,17,Self-enabling leadingedge neural-net,7593.75,False,True,False,True
+C230,P44,D05,PC11,D004,147.95,2024-08-10,M,59,Clifton,Oncology,Jersey City,38,Multi-channeled 3rdgeneration framework,5376.84,False,True,False,True
+C232,P44,D05,PC4,D001,147.95,2024-05-25,M,59,Clifton,Oncology,Jersey City,38,User-centric 3rdgeneration flexibility,2132.26,False,True,False,True
+C238,P82,D6,PC2,D001,147.95,2024-03-01,M,69,Jersey City,Pediatrics,Clifton,34,Upgradable 24hour secured line,3698.04,False,True,False,True
+C233,P82,D5,PC4,D004,147.95,2024-10-06,M,69,Jersey City,General Practice,Englewood,13,User-centric 3rdgeneration flexibility,2132.26,False,True,False,True
+C240,P82,D6,PC11,D004,147.95,2024-03-23,M,69,Jersey City,Pediatrics,Clifton,34,Multi-channeled 3rdgeneration framework,5376.84,False,True,False,True
+C235,P82,D01,PC4,D004,147.95,2024-06-17,M,69,Jersey City,Pediatrics,Clifton,17,User-centric 3rdgeneration flexibility,2132.26,False,True,False,True
+C234,P82,D01,PC11,D001,147.95,2024-06-11,M,69,Jersey City,Pediatrics,Clifton,17,Multi-channeled 3rdgeneration framework,5376.84,False,True,False,True
+C236,P82,D00,PC11,D004,147.95,2024-08-29,M,69,Jersey City,Cardiology,Englewood,31,Multi-channeled 3rdgeneration framework,5376.84,False,True,False,True
+C239,P82,D00,PC6,D004,147.95,2024-08-16,M,69,Jersey City,Cardiology,Englewood,31,Expanded local success,6684.65,False,True,False,True
+C237,P82,D6,PC11,D001,147.95,2024-02-20,M,69,Jersey City,Pediatrics,Clifton,34,Multi-channeled 3rdgeneration framework,5376.84,False,True,False,True
+C242,P03,D6,PC08,D005,147.95,2024-04-06,F,38,Englewood,Pediatrics,Clifton,34,Cross-group bottom-line data-warehouse,3989.28,False,True,False,True
+C241,P03,D09,PC08,D005,147.95,2024-01-07,F,38,Englewood,Pediatrics,Englewood,10,Cross-group bottom-line data-warehouse,3989.28,False,True,False,True
+C246,P03,D3,PC08,D005,147.95,2024-07-01,F,38,Englewood,General Practice,Jersey City,26,Cross-group bottom-line data-warehouse,3989.28,False,True,False,True
+C244,P03,D6,PC08,D004,147.95,2024-04-19,F,38,Englewood,Pediatrics,Clifton,34,Cross-group bottom-line data-warehouse,3989.28,False,True,False,True
+C243,P03,D09,PC9,D004,147.95,2024-01-08,F,38,Englewood,Pediatrics,Englewood,10,Customer-focused context-sensitive Local Area Network,5464.04,False,True,False,True
+C245,P03,D3,PC08,D005,147.95,2024-01-26,F,38,Englewood,General Practice,Jersey City,26,Cross-group bottom-line data-warehouse,3989.28,False,True,False,True
+C249,P16,D4,PC01,D005,147.95,2024-09-30,F,83,Clifton,Oncology,Newark,3,Multi-lateral needs-based circuit,9284.66,False,True,False,True
+C247,P16,D6,PC9,D005,147.95,2024-01-01,F,83,Clifton,Pediatrics,Clifton,34,Customer-focused context-sensitive Local Area Network,5464.04,False,True,False,True
+C248,P16,D6,PC08,D005,147.95,2024-04-22,F,83,Clifton,Pediatrics,Clifton,34,Cross-group bottom-line data-warehouse,3989.28,False,True,False,True
+C252,P16,D3,PC08,D005,147.95,2024-01-29,F,83,Clifton,General Practice,Jersey City,26,Cross-group bottom-line data-warehouse,3989.28,False,True,False,True
+C251,P16,D05,PC08,D005,147.95,2024-05-26,F,83,Clifton,Oncology,Jersey City,38,Cross-group bottom-line data-warehouse,3989.28,False,True,False,True
+C250,P16,D6,PC5,D005,147.95,2024-01-01,F,83,Clifton,Pediatrics,Clifton,34,User-centric 3rdgeneration flexibility,6592.01,False,True,False,True
+C253,P16,D6,PC01,D005,147.95,2024-02-05,F,83,Clifton,Pediatrics,Clifton,34,Multi-lateral needs-based circuit,9284.66,False,True,False,True
+C257,P47,D05,PC11,D004,147.95,2024-04-05,F,75,Englewood,Oncology,Jersey City,38,Multi-channeled 3rdgeneration framework,5376.84,False,True,False,True
+C258,P47,D01,PC16,D004,147.95,2024-10-20,F,75,Englewood,Pediatrics,Clifton,17,Upgradable 24hour secured line,8193.48,False,True,False,True
+C259,P47,D0,PC1,D004,147.95,2024-09-12,F,75,Englewood,General Practice,Englewood,15,Distributed interactive policy,7582.22,False,True,False,True
+C255,P47,D07,PC09,D004,147.95,2024-10-21,F,75,Englewood,Pediatrics,Jersey City,36,Adaptive executive knowledge user,5638.41,False,True,False,True
+C256,P47,D02,PC1,D004,147.95,2024-09-11,F,75,Englewood,General Practice,Jersey City,18,Distributed interactive policy,7582.22,False,True,False,True
+C254,P47,D9,PC1,D004,147.95,2024-10-12,F,75,Englewood,Cardiology,Clifton,24,Distributed interactive policy,7582.22,False,True,False,True
+C261,P34,D06,PC17,D004,147.95,2024-04-02,F,60,Newark,Cardiology,Englewood,7,Self-enabling leadingedge neural-net,7593.75,False,True,False,True
+C262,P34,D9,PC1,D004,147.95,2024-11-10,F,60,Newark,Cardiology,Clifton,24,Distributed interactive policy,7582.22,False,True,False,True
+C260,P34,D00,PC16,D004,147.95,2024-07-14,F,60,Newark,Cardiology,Englewood,31,Upgradable 24hour secured line,8193.48,False,True,False,True
+C263,P34,D0,PC1,D004,147.95,2024-11-12,F,60,Newark,General Practice,Englewood,15,Distributed interactive policy,7582.22,False,True,False,True
+C264,P58,D01,PC16,D001,147.95,2024-08-24,M,26,Jersey City,Pediatrics,Clifton,17,Upgradable 24hour secured line,8193.48,False,True,False,True
+C268,P59,D3,PC01,D001,9637.28,2024-12-06,F,38,Englewood,General Practice,Jersey City,26,Multi-lateral needs-based circuit,9284.66,True,False,False,True
+C269,P59,D3,PC30,D001,9637.2,2024-09-19,F,38,Englewood,General Practice,Jersey City,26,Vision-oriented upward-trending encoding,4916.73,True,False,False,True
+C271,P59,D6,PC3,D001,9637.22,2024-10-12,F,38,Englewood,Pediatrics,Clifton,34,Customer-focused executive artificial intelligence,3849.59,True,False,False,True
+C267,P59,D02,PC18,D001,9637.2,2024-08-31,F,38,Englewood,General Practice,Jersey City,18,Focused disintermediate definition,6245.46,True,False,False,True
+C265,P59,D02,PC01,D001,9637.25,2024-12-03,F,38,Englewood,General Practice,Jersey City,18,Multi-lateral needs-based circuit,9284.66,True,False,False,True
+C270,P59,D0,PC12,D001,9637.2,2024-08-05,F,38,Englewood,General Practice,Englewood,15,Cross-platform executive help-desk,7098.88,True,False,False,True
+C266,P59,D6,PC18,D001,9637.22,2024-11-03,F,38,Englewood,Pediatrics,Clifton,34,Focused disintermediate definition,6245.46,True,False,False,True
+C274,P02,D0,PC01,D005,147.95,2024-10-25,M,82,Jersey City,General Practice,Englewood,15,Multi-lateral needs-based circuit,9284.66,False,True,False,True
+C273,P02,D0,PC09,D005,147.95,2024-11-12,M,82,Jersey City,General Practice,Englewood,15,Adaptive executive knowledge user,5638.41,False,True,False,True
+C278,P02,D00,PC09,D005,147.95,2024-10-31,M,82,Jersey City,Cardiology,Englewood,31,Adaptive executive knowledge user,5638.41,False,True,False,True
+C276,P02,D07,PC09,D005,147.95,2024-11-12,M,82,Jersey City,Pediatrics,Jersey City,36,Adaptive executive knowledge user,5638.41,False,True,False,True
+C272,P02,D0,PC09,D005,147.95,2024-11-12,M,82,Jersey City,General Practice,Englewood,15,Adaptive executive knowledge user,5638.41,False,True,False,True
+C275,P02,D4,PC09,D005,147.95,2024-11-12,M,82,Jersey City,Oncology,Newark,3,Adaptive executive knowledge user,5638.41,False,True,False,True
+C279,P02,D4,PC09,D005,147.95,2024-11-12,M,82,Jersey City,Oncology,Newark,3,Adaptive executive knowledge user,5638.41,False,True,False,True
+C277,P02,D6,PC1,D005,147.95,2024-03-25,M,82,Jersey City,Pediatrics,Clifton,34,Distributed interactive policy,7582.22,False,True,False,True
+C281,P04,D5,PC17,D001,147.95,2024-04-17,M,25,Clifton,General Practice,Englewood,13,Self-enabling leadingedge neural-net,7593.75,False,True,False,True
+C282,P04,D06,PC16,D001,147.95,2024-08-22,M,25,Clifton,Cardiology,Englewood,7,Upgradable 24hour secured line,8193.48,False,True,False,True
+C280,P04,D06,PC16,D001,147.95,2024-08-04,M,25,Clifton,Cardiology,Englewood,7,Upgradable 24hour secured line,8193.48,False,True,False,True
+C284,P5,D4,PC16,D003,147.95,2024-10-23,F,55,Englewood,Oncology,Newark,3,Upgradable 24hour secured line,8193.48,False,True,False,True
+C285,P5,D6,PC30,D003,147.95,2024-01-01,F,55,Englewood,Pediatrics,Clifton,34,Vision-oriented upward-trending encoding,4916.73,False,True,False,True
+C283,P5,D09,PC30,D003,147.95,2024-01-01,F,55,Englewood,Pediatrics,Englewood,10,Vision-oriented upward-trending encoding,4916.73,False,True,False,True
+C290,P5,D06,PC30,D003,147.95,2024-01-01,F,55,Englewood,Cardiology,Englewood,7,Vision-oriented upward-trending encoding,4916.73,False,True,False,True
+C287,P5,D3,PC8,D003,147.95,2024-09-29,F,55,Englewood,General Practice,Jersey City,26,Customer-focused executive artificial intelligence,2460.79,False,True,False,True
+C289,P5,D09,PC30,D003,147.95,2024-01-01,F,55,Englewood,Pediatrics,Englewood,10,Vision-oriented upward-trending encoding,4916.73,False,True,False,True
+C286,P5,D06,PC30,D003,147.95,2024-02-20,F,55,Englewood,Cardiology,Englewood,7,Vision-oriented upward-trending encoding,4916.73,False,True,False,True
+C288,P5,D06,PC8,D003,147.95,2024-06-19,F,55,Englewood,Cardiology,Englewood,7,Customer-focused executive artificial intelligence,2460.79,False,True,False,True
+C292,P48,D4,PC09,D005,147.95,2024-08-31,M,62,Newark,Oncology,Newark,3,Adaptive executive knowledge user,5638.41,False,True,False,True
+C291,P48,D07,PC1,D005,147.95,2024-11-03,M,62,Newark,Pediatrics,Jersey City,36,Distributed interactive policy,7582.22,False,True,False,True
+C294,P65,D07,PC3,D004,11532.04,2024-07-15,F,45,Englewood,Pediatrics,Jersey City,36,Customer-focused executive artificial intelligence,3849.59,True,False,False,True
+C297,P65,D02,PC3,D001,11532.04,2024-10-18,F,45,Englewood,General Practice,Jersey City,18,Customer-focused executive artificial intelligence,3849.59,True,False,False,True
+C293,P65,D0,PC3,D001,11532.01,2024-10-04,F,45,Englewood,General Practice,Englewood,15,Customer-focused executive artificial intelligence,3849.59,True,False,False,True
+C295,P65,D02,PC30,D001,11532.01,2024-10-18,F,45,Englewood,General Practice,Jersey City,18,Vision-oriented upward-trending encoding,4916.73,True,False,False,True
+C296,P65,D05,PC30,D004,11532.07,2024-10-04,F,45,Englewood,Oncology,Jersey City,38,Vision-oriented upward-trending encoding,4916.73,True,False,False,True
+C300,P08,D0,PC1,D005,147.95,2024-08-14,M,20,Englewood,General Practice,Englewood,15,Distributed interactive policy,7582.22,False,True,False,True
+C303,P08,D00,PC0,D005,147.95,2024-12-15,M,20,Englewood,Cardiology,Englewood,31,Multi-lateral needs-based circuit,9738.0,False,True,False,True
+C298,P08,D0,PC1,D005,147.95,2024-08-25,M,20,Englewood,General Practice,Englewood,15,Distributed interactive policy,7582.22,False,True,False,True
+C302,P08,D4,PC1,D005,147.95,2024-10-25,M,20,Englewood,Oncology,Newark,3,Distributed interactive policy,7582.22,False,True,False,True
+C299,P08,D05,PC0,D005,147.95,2024-11-20,M,20,Englewood,Oncology,Jersey City,38,Multi-lateral needs-based circuit,9738.0,False,True,False,True
+C301,P08,D07,PC0,D005,147.95,2024-11-30,M,20,Englewood,Pediatrics,Jersey City,36,Multi-lateral needs-based circuit,9738.0,False,True,False,True
+C306,P15,D3,PC0,D005,147.95,2024-12-07,F,38,Englewood,General Practice,Jersey City,26,Multi-lateral needs-based circuit,9738.0,False,True,False,True
+C307,P15,D3,PC17,D005,147.95,2024-04-24,F,38,Englewood,General Practice,Jersey City,26,Self-enabling leadingedge neural-net,7593.75,False,True,False,True
+C304,P15,D4,PC12,D005,147.95,2024-12-07,F,38,Englewood,Oncology,Newark,3,Cross-platform executive help-desk,7098.88,False,True,False,True
+C305,P15,D4,PC1,D005,147.95,2024-07-04,F,38,Englewood,Oncology,Newark,3,Distributed interactive policy,7582.22,False,True,False,True
+C314,P79,D00,PC1,D004,147.95,2024-07-28,M,32,Clifton,Cardiology,Englewood,31,Distributed interactive policy,7582.22,False,True,False,True
+C313,P79,D09,PC1,D005,147.95,2024-04-29,M,32,Clifton,Pediatrics,Englewood,10,Distributed interactive policy,7582.22,False,True,False,True
+C309,P79,D0,PC18,D005,147.95,2024-07-26,M,32,Clifton,General Practice,Englewood,15,Focused disintermediate definition,6245.46,False,True,False,True
+C311,P79,D3,PC5,D005,147.95,2024-05-29,M,32,Clifton,General Practice,Jersey City,26,User-centric 3rdgeneration flexibility,6592.01,False,True,False,True
+C308,P79,D4,PC17,D005,147.95,2024-05-06,M,32,Clifton,Oncology,Newark,3,Self-enabling leadingedge neural-net,7593.75,False,True,False,True
+C312,P79,D3,PC5,D005,147.95,2024-06-06,M,32,Clifton,General Practice,Jersey City,26,User-centric 3rdgeneration flexibility,6592.01,False,True,False,True
+C310,P79,D4,PC17,D005,147.95,2024-05-06,M,32,Clifton,Oncology,Newark,3,Self-enabling leadingedge neural-net,7593.75,False,True,False,True
+C318,P12,D3,PC5,D005,147.95,2024-06-08,M,63,Jersey City,General Practice,Jersey City,26,User-centric 3rdgeneration flexibility,6592.01,False,True,False,True
+C315,P12,D09,PC12,D004,147.95,2024-07-08,M,63,Jersey City,Pediatrics,Englewood,10,Cross-platform executive help-desk,7098.88,False,True,False,True
+C319,P12,D09,PC12,D005,147.95,2024-08-06,M,63,Jersey City,Pediatrics,Englewood,10,Cross-platform executive help-desk,7098.88,False,True,False,True
+C316,P12,D05,PC12,D004,147.95,2024-09-10,M,63,Jersey City,Oncology,Jersey City,38,Cross-platform executive help-desk,7098.88,False,True,False,True
+C317,P12,D07,PC5,D005,147.95,2024-06-12,M,63,Jersey City,Pediatrics,Jersey City,36,User-centric 3rdgeneration flexibility,6592.01,False,True,False,True
+C324,P64,D4,PC5,D005,147.95,2024-01-24,F,24,Clifton,Oncology,Newark,3,User-centric 3rdgeneration flexibility,6592.01,False,True,False,True
+C325,P64,D3,PC5,D005,147.95,2024-05-27,F,24,Clifton,General Practice,Jersey City,26,User-centric 3rdgeneration flexibility,6592.01,False,True,False,True
+C321,P64,D3,PC30,D005,147.95,2024-04-27,F,24,Clifton,General Practice,Jersey City,26,Vision-oriented upward-trending encoding,4916.73,False,True,False,True
+C320,P64,D4,PC30,D005,147.95,2024-05-26,F,24,Clifton,Oncology,Newark,3,Vision-oriented upward-trending encoding,4916.73,False,True,False,True
+C323,P64,D4,PC12,D005,147.95,2024-05-05,F,24,Clifton,Oncology,Newark,3,Cross-platform executive help-desk,7098.88,False,True,False,True
+C322,P64,D9,PC12,D005,147.95,2024-05-23,F,24,Clifton,Cardiology,Clifton,24,Cross-platform executive help-desk,7098.88,False,True,False,True
+C327,P09,D09,PC37,D001,7815.69,2024-08-07,F,86,Clifton,Pediatrics,Englewood,10,Managed didactic contingency,7720.35,False,False,False,False
+C330,P09,D02,PC12,D004,7815.65,2024-12-30,F,86,Clifton,General Practice,Jersey City,18,Cross-platform executive help-desk,7098.88,False,False,False,False
+C326,P09,D0,PC3,D001,7815.63,2024-08-20,F,86,Clifton,General Practice,Englewood,15,Customer-focused executive artificial intelligence,3849.59,False,False,False,False
+C328,P09,D02,PC12,D004,7815.62,2024-12-24,F,86,Clifton,General Practice,Jersey City,18,Cross-platform executive help-desk,7098.88,False,False,False,False
+C329,P09,D02,PC12,D001,7815.7,2024-12-30,F,86,Clifton,General Practice,Jersey City,18,Cross-platform executive help-desk,7098.88,False,False,False,False
+C333,P24,D09,PC3,D003,147.95,2024-01-18,F,40,Clifton,Pediatrics,Englewood,10,Customer-focused executive artificial intelligence,3849.59,False,True,False,True
+C336,P24,D09,PC3,D001,147.95,2024-05-09,F,40,Clifton,Pediatrics,Englewood,10,Customer-focused executive artificial intelligence,3849.59,False,True,False,True
+C332,P24,D09,PC3,D001,147.95,2024-01-29,F,40,Clifton,Pediatrics,Englewood,10,Customer-focused executive artificial intelligence,3849.59,False,True,False,True
+C335,P24,D09,PC3,D001,147.95,2024-02-27,F,40,Clifton,Pediatrics,Englewood,10,Customer-focused executive artificial intelligence,3849.59,False,True,False,True
+C331,P24,D01,PC37,D003,147.95,2024-01-31,F,40,Clifton,Pediatrics,Clifton,17,Managed didactic contingency,7720.35,False,True,False,True
+C334,P24,D9,PC37,D001,147.95,2024-05-24,F,40,Clifton,Cardiology,Clifton,24,Managed didactic contingency,7720.35,False,True,False,True
+C340,P86,D02,PC37,D003,147.95,2024-04-29,M,71,Clifton,General Practice,Jersey City,18,Managed didactic contingency,7720.35,False,True,False,True
+C342,P86,D01,PC37,D003,147.95,2024-08-29,M,71,Clifton,Pediatrics,Clifton,17,Managed didactic contingency,7720.35,False,True,False,True
+C341,P86,D01,PC37,D001,147.95,2024-06-19,M,71,Clifton,Pediatrics,Clifton,17,Managed didactic contingency,7720.35,False,True,False,True
+C337,P86,D07,PC37,D003,147.95,2024-08-11,M,71,Clifton,Pediatrics,Jersey City,36,Managed didactic contingency,7720.35,False,True,False,True
+C339,P86,D07,PC37,D003,147.95,2024-06-09,M,71,Clifton,Pediatrics,Jersey City,36,Managed didactic contingency,7720.35,False,True,False,True
+C338,P86,D01,PC37,D003,147.95,2024-08-28,M,71,Clifton,Pediatrics,Clifton,17,Managed didactic contingency,7720.35,False,True,False,True
+C343,P60,D0,PC37,D004,147.95,2024-05-14,M,61,Englewood,General Practice,Englewood,15,Managed didactic contingency,7720.35,False,True,False,True
+C345,P60,D4,PC7,D004,147.95,2024-10-25,M,61,Englewood,Oncology,Newark,3,Cross-platform intangible support,9166.66,False,True,False,True
+C344,P60,D07,PC7,D004,147.95,2024-07-30,M,61,Englewood,Pediatrics,Jersey City,36,Cross-platform intangible support,9166.66,False,True,False,True
+C346,P36,D09,PC22,D004,147.95,2024-04-13,M,70,Clifton,Pediatrics,Englewood,10,Multi-lateral needs-based circuit,7542.25,False,True,False,True
+C347,P36,D09,PC22,D004,147.95,2024-04-14,M,70,Clifton,Pediatrics,Englewood,10,Multi-lateral needs-based circuit,7542.25,False,True,False,True
+C348,P36,D01,PC7,D001,147.95,2024-04-13,M,70,Clifton,Pediatrics,Clifton,17,Cross-platform intangible support,9166.66,False,True,False,True
+C351,P66,D9,PC7,D003,8284.97,2024-06-17,F,57,Englewood,Cardiology,Clifton,24,Cross-platform intangible support,9166.66,False,False,False,False
+C350,P66,D01,PC7,D001,8284.66,2024-10-06,F,57,Englewood,Pediatrics,Clifton,17,Cross-platform intangible support,9166.66,False,False,False,False
+C349,P66,D4,PC7,D003,8284.55,2024-08-20,F,57,Englewood,Oncology,Newark,3,Cross-platform intangible support,9166.66,False,False,False,False
+C352,P18,D01,PC07,D004,147.95,2024-11-09,M,55,Jersey City,Pediatrics,Clifton,17,Front-line executive initiative,2494.96,False,True,False,True
+C353,P18,D9,PC35,D005,147.95,2024-10-15,M,55,Jersey City,Cardiology,Clifton,24,Extended transitional task-force,4101.72,False,True,False,True
+C355,P18,D01,PC35,D004,147.95,2024-08-27,M,55,Jersey City,Pediatrics,Clifton,17,Extended transitional task-force,4101.72,False,True,False,True
+C354,P18,D07,PC29,D005,147.95,2024-08-27,M,55,Jersey City,Pediatrics,Jersey City,36,Multi-lateral needs-based circuit,8986.15,False,True,False,True
+C356,P22,D9,PC22,D005,147.95,2024-07-25,M,35,Englewood,Cardiology,Clifton,24,Multi-lateral needs-based circuit,7542.25,False,True,False,True
+C360,P22,D9,PC07,D005,147.95,2024-07-14,M,35,Englewood,Cardiology,Clifton,24,Front-line executive initiative,2494.96,False,True,False,True
+C362,P22,D9,PC29,D005,147.95,2024-05-19,M,35,Englewood,Cardiology,Clifton,24,Multi-lateral needs-based circuit,8986.15,False,True,False,True
+C361,P22,D9,PC35,D005,147.95,2024-05-14,M,35,Englewood,Cardiology,Clifton,24,Extended transitional task-force,4101.72,False,True,False,True
+C358,P22,D01,PC29,D005,147.95,2024-08-08,M,35,Englewood,Pediatrics,Clifton,17,Multi-lateral needs-based circuit,8986.15,False,True,False,True
+C359,P22,D9,PC29,D005,147.95,2024-06-30,M,35,Englewood,Cardiology,Clifton,24,Multi-lateral needs-based circuit,8986.15,False,True,False,True
+C357,P22,D9,PC29,D005,147.95,2024-07-24,M,35,Englewood,Cardiology,Clifton,24,Multi-lateral needs-based circuit,8986.15,False,True,False,True
+C363,P74,D01,PC07,D001,147.95,2024-02-14,F,50,Clifton,Pediatrics,Clifton,17,Front-line executive initiative,2494.96,False,True,False,True
+C365,P74,D07,PC07,D001,147.95,2024-08-11,F,50,Clifton,Pediatrics,Jersey City,36,Front-line executive initiative,2494.96,False,True,False,True
+C364,P74,D07,PC07,D003,147.95,2024-05-24,F,50,Clifton,Pediatrics,Jersey City,36,Front-line executive initiative,2494.96,False,True,False,True
+C369,P1,D01,PC07,D002,147.95,2024-07-28,F,71,Jersey City,Pediatrics,Clifton,17,Front-line executive initiative,2494.96,False,True,False,True
+C368,P1,D07,PC35,D002,147.95,2024-07-28,F,71,Jersey City,Pediatrics,Jersey City,36,Extended transitional task-force,4101.72,False,True,False,True
+C370,P1,D09,PC07,D002,147.95,2024-07-28,F,71,Jersey City,Pediatrics,Englewood,10,Front-line executive initiative,2494.96,False,True,False,True
+C366,P1,D09,PC07,D002,147.95,2024-07-28,F,71,Jersey City,Pediatrics,Englewood,10,Front-line executive initiative,2494.96,False,True,False,True
+C367,P1,D07,PC07,D002,147.95,2024-07-28,F,71,Jersey City,Pediatrics,Jersey City,36,Front-line executive initiative,2494.96,False,True,False,True
+C371,P25,D09,PC35,D002,147.95,2024-09-23,M,65,Englewood,Pediatrics,Englewood,10,Extended transitional task-force,4101.72,False,True,False,True
+C372,P25,D07,PC22,D002,147.95,2024-11-07,M,65,Englewood,Pediatrics,Jersey City,36,Multi-lateral needs-based circuit,7542.25,False,True,False,True
+C373,P25,D09,PC35,D002,147.95,2024-06-25,M,65,Englewood,Pediatrics,Englewood,10,Extended transitional task-force,4101.72,False,True,False,True
+C377,P7,D07,PC35,D002,11698.85,2024-03-22,M,64,Clifton,Pediatrics,Jersey City,36,Extended transitional task-force,4101.72,True,False,False,True
+C378,P7,D09,PC35,D002,11698.84,2024-04-08,M,64,Clifton,Pediatrics,Englewood,10,Extended transitional task-force,4101.72,True,False,False,True
+C374,P7,D02,PC07,D002,11698.84,2024-06-20,M,64,Clifton,General Practice,Jersey City,18,Front-line executive initiative,2494.96,True,False,False,True
+C375,P7,D07,PC22,D002,11698.85,2024-07-10,M,64,Clifton,Pediatrics,Jersey City,36,Multi-lateral needs-based circuit,7542.25,True,False,False,True
+C376,P7,D09,PC22,D002,11698.86,2024-03-13,M,64,Clifton,Pediatrics,Englewood,10,Multi-lateral needs-based circuit,7542.25,True,False,False,True
+C379,P77,D9,PC35,D001,147.95,2024-12-09,F,88,Englewood,Cardiology,Clifton,24,Extended transitional task-force,4101.72,False,True,False,True
+C380,P05,D9,PC22,D004,147.95,2024-10-27,M,55,Clifton,Cardiology,Clifton,24,Multi-lateral needs-based circuit,7542.25,False,True,False,True
+C384,P05,D09,PC07,D004,147.95,2024-05-25,M,55,Clifton,Pediatrics,Englewood,10,Front-line executive initiative,2494.96,False,True,False,True
+C383,P05,D09,PC07,D004,147.95,2024-07-04,M,55,Clifton,Pediatrics,Englewood,10,Front-line executive initiative,2494.96,False,True,False,True
+C382,P05,D09,PC22,D004,147.95,2024-04-27,M,55,Clifton,Pediatrics,Englewood,10,Multi-lateral needs-based circuit,7542.25,False,True,False,True
+C381,P05,D9,PC07,D004,147.95,2024-10-15,M,55,Clifton,Cardiology,Clifton,24,Front-line executive initiative,2494.96,False,True,False,True
+C385,P05,D09,PC35,D004,147.95,2024-04-28,M,55,Clifton,Pediatrics,Englewood,10,Extended transitional task-force,4101.72,False,True,False,True
+C387,P68,D09,PC22,D004,7590.19,2024-04-02,M,55,Newark,Pediatrics,Englewood,10,Multi-lateral needs-based circuit,7542.25,False,False,False,False
+C388,P68,D02,PC35,D004,7590.19,2024-08-22,M,55,Newark,General Practice,Jersey City,18,Extended transitional task-force,4101.72,False,False,False,False
+C386,P68,D02,PC35,D004,7590.17,2024-05-03,M,55,Newark,General Practice,Jersey City,18,Extended transitional task-force,4101.72,False,False,False,False
+C389,P40,D02,PC35,D004,147.95,2024-11-11,F,80,Clifton,General Practice,Jersey City,18,Extended transitional task-force,4101.72,False,True,False,True

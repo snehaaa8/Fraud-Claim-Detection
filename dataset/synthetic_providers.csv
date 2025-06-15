@@ -1,0 +1,21 @@
+provider_id,specialty,location,years_of_experience
+D2,Oncology,Englewood,20
+D00,Cardiology,Englewood,31
+D0,General Practice,Englewood,15
+D9,Cardiology,Clifton,24
+D03,Oncology,Jersey City,30
+D6,Pediatrics,Clifton,34
+D01,Pediatrics,Clifton,17
+D09,Pediatrics,Englewood,10
+D5,General Practice,Englewood,13
+D05,Oncology,Jersey City,38
+D07,Pediatrics,Jersey City,36
+D06,Cardiology,Englewood,7
+D8,Pediatrics,Jersey City,5
+D02,General Practice,Jersey City,18
+D1,General Practice,Newark,3
+D04,General Practice,Englewood,4
+D7,Cardiology,Englewood,6
+D4,Oncology,Newark,3
+D3,General Practice,Jersey City,26
+D08,Pediatrics,Jersey City,35
