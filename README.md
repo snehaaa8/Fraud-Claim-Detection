@@ -51,8 +51,8 @@ Claims-Fraud-Detection-in-Healthcare/
 ├── fraud_dataset.csv             # Cleaned merged dataset for dashboard
 ├── Fraud Detection Dashboard.pbix
 ├── insights.md                   # Insight summary (SQL + visuals)
-├── powerbi.md                    # Optional: visual planning markdown
 ├── README.md                     # Final summary (you’ll build this next)
+├── LICENSE
 ```
 
 ## 👩‍💻 Author
